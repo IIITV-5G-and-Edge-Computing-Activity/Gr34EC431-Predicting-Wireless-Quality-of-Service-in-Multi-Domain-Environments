@@ -1,5 +1,9 @@
 # Predicting Wireless Quality of Service in Multi-Domain Environments
 
+202151026   Arelli Gnapika
+202151025  Ansh zala	
+202151038  Bairoju Sathwika 
+
 ## Project Overview
 This project focuses on predicting wireless Quality of Service (QoS) metrics such as latency, throughput, and reliability in multi-domain environments. Using the Berlin V2X dataset and CatBoost (CBC), the analysis explores how network parameters influence QoS and how predictive models can optimize it.
 
